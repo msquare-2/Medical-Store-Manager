@@ -1,6 +1,23 @@
 # Medical Store Manager
 Medical Store Database Management System using Django
 
+Functionalities Provided By Django Project On Medical Shop Management System Are As Follows:
+Dealer Management.
+>Add Dealer.
+>View Dealers.
+Medicine  Management.
+>Add Medicine.
+>View Medicine.
+Employees Management.
+>Add Employees.
+>View Employees.
+Customers Management.
+>Add Customers.
+>View Customers
+Purchase  Management.
+>New Purchase .
+>View All Purchase
+
 Setting up the project:
 
 Download the project zip file. Extract it.
