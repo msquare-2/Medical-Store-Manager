@@ -1,7 +1,7 @@
 # Medical Store Manager
 Medical Store Database Management System using Django
 
-[Medical Store Manager Interface Image](Medical Store Manager.png)
+![Medical Store Manager Interface Image](https://github.com/msquare-2/Medical-Store-Manager/blob/master/Medical%20Store%20Manager.png)
 
 Functionalities Provided By Django Project On Medical Shop Management System Are As Follows:
 
